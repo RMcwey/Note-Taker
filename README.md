@@ -37,8 +37,6 @@
 
 ![morning-dawn-81688 herokuapp com_notes (2)](https://user-images.githubusercontent.com/95650769/159146818-a0148974-eb82-4d9b-be8c-e4dda8928503.png)
 
-Provide instructions and examples for use. Include screenshots as needed.
-
 ## Technologies Used
 
 HTML, CSS, JS, Jquery, node.js, bootstrap, font-awesome, and express.js.
